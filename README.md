@@ -1,2 +1,2 @@
 # Python-GUI
-Games in Python
+Space fighter game using Pygame
